@@ -1,0 +1,2 @@
+[build-system]
+requires = ["setuptools", "wheel", "Django==3.2.25"]
